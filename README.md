@@ -15,7 +15,7 @@ I am therefore currently looking for a job as a frontend developer
 
 
 <h1 align="center"> My Skills </h1>
-<h3 align="center">Front-End Developer | Android | Java| C++ C | Mysql/ PostgreSql/ MongoDB/ Oracle |  Visual Programming C# | Git - Github | HTML5 CSS3 JS JQuery| Material-UI Bootstrap
+<h3 align="center">Front-End Developer | Android | Java| C++ C | Mysql/ PostgreSql/ MongoDB/ Oracle |  Visual Programming C# | Git - Github | HTML5 CSS3 Sass JS JQuery| Material-UI MUI-joy AntD Bootstrap Tailwind | 
 </h3>
 
 <!--
@@ -23,7 +23,7 @@ I am therefore currently looking for a job as a frontend developer
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **reactjs, nodejs, nextjs, expressjs**
+- 🔭 I’m currently working on **reactjs, nodejs, nextjs, typescript, expressjs**
 - 🌱 I’m currently learning **flutter and react native**
 - 👯 I’m looking to collaborate on **webdevelopment**
 
